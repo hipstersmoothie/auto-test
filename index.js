@@ -1,1 +1,1 @@
-module.exports = undefined
+exports.name = 'Kevin Wolf'
