@@ -9,7 +9,7 @@
     "access": "public"
   },
   "scripts": {
-    "release": "auto canary"
+    "release": "auto canary -vv"
   },
   "devDependencies": {
     "@auto-it/conventional-commits": "^9.30.4",
