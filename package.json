@@ -6,6 +6,7 @@
   "license": "MIT",
   "repository": "kevinwolfdev/auto-test",
   "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
