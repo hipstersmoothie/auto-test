@@ -1,0 +1,24 @@
+{
+  "name": "@kevinwolf/auto-test",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Kevin Wolf",
+  "license": "MIT",
+  "repository": "kevinwolfdev/auto-test",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "release": "auto canary"
+  },
+  "devDependencies": {
+    "@auto-it/conventional-commits": "^9.30.4",
+    "auto": "^9.30.4"
+  },
+  "auto": {
+    "plugins": [
+      "npm",
+      "conventional-commits"
+    ]
+  }
+}
