@@ -12,8 +12,8 @@
     "release": "auto canary -vv"
   },
   "devDependencies": {
-    "@auto-it/conventional-commits": "^9.30.4",
-    "auto": "^9.30.4"
+    "@auto-canary/conventional-commits": "9.30.5-canary.04758ff58.0",
+    "@auto-canary/auto": "9.30.5-canary.04758ff58.0"
   },
   "auto": {
     "plugins": [
